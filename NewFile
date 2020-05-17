@@ -18,4 +18,6 @@ Test push and pull request
 
 1) Create, 2)add 3) commit, 4) push
 
+addition to testrepo commit is behind master
+
 edit to master not testrepo
