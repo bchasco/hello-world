@@ -8,8 +8,6 @@ This is another local comment on my machine.
 
 This is a change I made in a branch.
 
-<<<<<<< HEAD
 Here the master is now ahead of the my local.
-=======
+
 This is the change on my local, after the repo master has already had a change.
->>>>>>> masteraheadlocal
